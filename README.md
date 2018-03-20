@@ -1,12 +1,6 @@
 # javaScript-Inerview-Questions-and-answers
-![](coverPage.png)
 
-# 123-JavaScript-Interview-Questions
-
-This Book will be completed by June 2018 and available to buy. If you want me to sent early copy of this book then please add your name and email address in google form here [Google Form](https://goo.gl/forms/c8ubV1tWBBdz6fJP2).
-
-
-## Great news!
+# Great news!
 
 Yuri Katkov from [Flashcards.js](http://flashcardsjs.com) became a co-author and the rights holder of the book. He will improve the questions and add some more from his collections of flashcards and will make sure to produce an unbeatable guide for frontend inteviews.
 
@@ -3204,5 +3198,3 @@ We always appreciate your feedback on how the book can be improved, and more que
 This book is released under a Creative Commons Attribution-Noncommercial- No Derivative Works 3.0 United States License.
 
 What this means it that the project is free to read and use, but the license does not permit commercial use of the material (i.e you can freely print out the questions for your own use, but you can't sell it). I'm trying to best to publish all of my books in a free + purchased (if you would like to support these projects) form so I would greatly appreciate it if you would respect these terms.
-
-Copyright Iurii Katkov and Nishant Kumar, 2017.
